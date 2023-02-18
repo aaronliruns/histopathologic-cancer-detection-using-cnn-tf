@@ -8,4 +8,4 @@ In this project, we will explore the data, create two CNN models, fit the models
 
 
 
-Please find Kaggle submission at - [](https://www.kaggle.com/code/chli3841/histopathologic-cancer-detection-with-cnn-tf) 
+Please find Kaggle submission at - https://www.kaggle.com/code/chli3841/histopathologic-cancer-detection-with-cnn-tf
